@@ -117,7 +117,7 @@ This README file contains the necessary steps for setting up a Jenkins CI/CD pip
 
 
 ```
-git clone https://github.com/sdeshwal78/Java-sample-app.git 
+Repository URL : https://github.com/sdeshwal78/Java-sample-app.git 
 ```
 4. Install and configure the 'Deploy to Container' plugin:
 - Go to 'Manage Jenkins' > 'Manage Plugins'.
