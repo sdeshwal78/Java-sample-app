@@ -137,12 +137,14 @@ git clone https://github.com/sdeshwal78/Java-sample-app.git
     - Set the 'Context path' for the deployed application (e.g., /app).
 
 6. Save the configuration and click on 'Build Now' to start the deployment job.
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/37726793-ae05-41d5-9f67-751b4f041823)
+
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/44d0b936-f470-4911-a2f2-785f447e5008)
+
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/72e60eae-4b85-4405-8b87-1a8d71cfff60)
 
 
-![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/acac01b2-8832-4d23-96c1-839dbae35414)
-
-![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/e3aa7323-99b1-4375-bf90-b229ec522483)
-
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/64edb906-a9d1-42f9-ac77-03fc4371f79f)
 
 
  - [ ] Check your Application at the context name given
