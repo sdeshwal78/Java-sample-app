@@ -132,7 +132,7 @@ git clone https://github.com/sdeshwal78/Java-sample-app.git
     - Click on 'Add post-build action' and select 'Deploy war/ear to a container'.
     - In the 'WAR/EAR files' field, enter '**/*.war'.
     - Click 'Add Container' and choose 'Tomcat 9.x'.
-    - Enter the 'Tomcat URL' (e.g. http://3.82.218.56:8080/).
+    - Enter the 'Tomcat URL' (e.g. http://52.91.26.98:8090/).
     - Add the credentials for the Tomcat manager (username and password).
     - Set the 'Context path' for the deployed application (e.g., /app).
 
