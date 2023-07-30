@@ -105,6 +105,7 @@ http://52.91.26.98:8090/manager/html
 # Jenkins CI/CD Project for Java Spring Boot Tomcat
 
 This README file contains the necessary steps for setting up a Jenkins CI/CD pipeline for a Java Spring Boot project using Tomcat as the application server. We will be using the sample project at (https://github.com/sdeshwal78/Java-sample-app.git)
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/f8b76d80-a807-4623-9e1c-0a05bc0bf2bf)
 
 
 
@@ -134,14 +135,15 @@ git clone https://github.com/sdeshwal78/Java-sample-app.git
     - Click 'Add Container' and choose 'Tomcat 9.x'.
     - Enter the 'Tomcat URL' (e.g. http://52.91.26.98:8090/).
     - Add the credentials for the Tomcat manager (username and password).
-    - Set the 'Context path' for the deployed application (e.g., /app).
+    - Set the 'Context path' for the deployed application (e.g. Bookzy).
 
 6. Save the configuration and click on 'Build Now' to start the deployment job.
 ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/37726793-ae05-41d5-9f67-751b4f041823)
 
 ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/44d0b936-f470-4911-a2f2-785f447e5008)
 
-![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/72e60eae-4b85-4405-8b87-1a8d71cfff60)
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/04ab33be-0b6c-4098-b7fb-9614e23ec0e6)
+
 
 
 ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/64edb906-a9d1-42f9-ac77-03fc4371f79f)
@@ -149,9 +151,13 @@ git clone https://github.com/sdeshwal78/Java-sample-app.git
 
  - [ ] Check your Application at the context name given
 ```
-ip:8080/app  e.g. http://52.91.26.98:8090/app
+ip:8080/app  e.g. http://52.91.26.98:8090/Bookzy
 ```
 
-
-
  - [ ]  Now use the given code to deploy from JenknsFile
+ ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/ee7fa6f3-eb23-4a93-81f0-68f1fcec0f47)
+      
+![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/9bde16a7-c7b5-4c15-b0cd-4831b635463a)
+- [ ] Deployed on Remote Tomcat Server
+      ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/2a15f310-7f76-4065-89db-f523a4f9ab5a)
+
