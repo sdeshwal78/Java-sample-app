@@ -159,5 +159,7 @@ ip:8080/app  e.g. http://52.91.26.98:8090/Bookzy
       
 ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/9bde16a7-c7b5-4c15-b0cd-4831b635463a)
 - [ ] Deployed on Remote Tomcat Server
+      ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/33359195-5d1f-4657-b0d3-87ae4d7a1b9a)
+
       ![image](https://github.com/sdeshwal78/Java-sample-app/assets/137603560/2a15f310-7f76-4065-89db-f523a4f9ab5a)
 
