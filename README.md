@@ -154,4 +154,4 @@ ip:8080/app  e.g. http://52.91.26.98:8090/app
 
 
 
- - [ ]  Now use the below code to deploy from JenknsFile
+ - [ ]  Now use the given code to deploy from JenknsFile
